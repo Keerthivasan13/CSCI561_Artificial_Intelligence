@@ -1,6 +1,6 @@
 # AI-CSCI561
 Programs developed for CSCI561 Foundations of Artificial Intelligence course
- 
+
 # Program 1 - Search 
  # Mars Exploration mission path finder
 	Given the topographical map of the mission site with Z value assigned to each cell identifying the elevation of the planet, the Program moves the rover optimally from its landing site to all of its target locations for experiments.
