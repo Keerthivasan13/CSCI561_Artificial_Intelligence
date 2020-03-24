@@ -17,7 +17,7 @@ Configuration: Dynamic depth control (Max: 2 Ply or 3 Depth)
 Evalution Function: Mix of Euclidean distances
 Result: Agent came in the top 7th of 750 students in the AI Tournament sponsored by Google
 
-# HW3 - First Order Logic
+# Program 3 - First Order Logic
  # Logic Resolution Engine
 Implemented a First Order Logic Resolution engine for sentences after converting to CNF form. Used Backward chaining with unification of sentences, including variable to variable unification.
 
