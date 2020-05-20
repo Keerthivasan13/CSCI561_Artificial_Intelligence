@@ -1,5 +1,6 @@
 # AI-CSCI561
-Programs developed for CSCI561 Foundations of Artificial Intelligence course.  
+Programs developed for CSCI561 Foundations of Artificial Intelligence course taught by Prof. Laurent Itti
+
 **Language:** Python
 
 ## 1. Search 
